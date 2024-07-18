@@ -4,4 +4,7 @@ A person’s Body-Mass Index, or BMI, helps them check whether they’re a healt
 
 BMI Calculator [Wiki](https://en.wikipedia.org/wiki/Body_mass_index)
 
+# Screenshot
+<img width="219" alt="Screenshot 2024-07-18 at 11 14 03 PM" src="https://github.com/user-attachments/assets/1e165a8b-b277-4dd3-8009-1a09856a1101">
 
+<img width="219" alt="Screenshot 2024-07-18 at 11 14 34 PM" src="https://github.com/user-attachments/assets/090193a8-5a27-434e-b3ed-4172f209e1df">
